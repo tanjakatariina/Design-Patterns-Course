@@ -19,7 +19,6 @@ Exercises for Design Patterns course at Metropolia UAS during my second year.
 + tehtävä15 - Adapter
 + tehtävä17 - Flyweight
 + tehtävä18 - Prototype
-+ tehtävä19 - Mediator
 + tehtävä20 - Iterator
 + tehtävä21 - Facade
 + tehtävä22 - Command
