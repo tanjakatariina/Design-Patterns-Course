@@ -1,6 +1,5 @@
 # Design Patterns Course
-Exercises for Design Patterns course at Metropolia UAS during my second year. Contains 22 exercises written in Java.
-
+Exercises for Design Patterns course at Metropolia UAS during my second year.
 ### Exercises:
 
 + tehtävä01 - Factory Method
@@ -18,7 +17,6 @@ Exercises for Design Patterns course at Metropolia UAS during my second year. Co
 + tehtävä13 - Visitor
 + tehtävä14 - Builder
 + tehtävä15 - Adapter
-+ tehtävä16 - Bridge
 + tehtävä17 - Flyweight
 + tehtävä18 - Prototype
 + tehtävä19 - Mediator
